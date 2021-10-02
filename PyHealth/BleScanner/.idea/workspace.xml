@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e42b2547-4a47-4121-83c6-589a8b296c79" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blemodel</find>
+      <find>bleModel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Settings</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="263" />
+    <option name="y" value="42" />
+    <option name="width" value="1617" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectId" id="1sJeeYTPMqt7eXgjuO08hN0zYCU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BleHealthViewer" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tuc\dev\BleHealth\BleScanner" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BleScanner" type="PythonConfigurationType" factoryName="Python">
+      <module name="BleScanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Tuc\tools\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BleScanner.py" />
+      <option name="PARAMETERS" value="txmodel * 4800 0 14 C:\Tuc\Image2019\BleHealth" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42b2547-4a47-4121-83c6-589a8b296c79" name="Default" comment="" />
+      <created>1564157173142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564157173142</updated>
+    </task>
+    <task id="LOCAL-00001" summary="BleScanner scan the TX staging BLE health JSON data &amp; model customer experience.">
+      <created>1564409121767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564409121767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BlehealthViewer prototype scans the TX staging BLE health JSON data &amp; model customer experience.">
+      <created>1564409193698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564409193698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project work flies before .gitignore">
+      <created>1564496196741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564496196741</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".gitignore standard excluding workspace">
+      <created>1564496249183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564496249183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="before .gitignore standard excluding workspace">
+      <created>1564496274043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564496274043</updated>
+    </task>
+    <task id="LOCAL-00006" summary="prototype of ble health modeling w/ pie &amp; stacked bar results visualization">
+      <created>1564496321309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564496321309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="BLE, APP, TX health modeling">
+      <created>1564578901609</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564578901609</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ready for demo of BLE, APP, TX health modeling">
+      <created>1564598230422</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564598230422</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add US production copy DB open &amp; handlers for various other DB">
+      <created>1565012410981</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565012410981</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BleScanner scan the TX staging BLE health JSON data &amp; model customer experience." />
+    <MESSAGE value="BlehealthViewer prototype scans the TX staging BLE health JSON data &amp; model customer experience." />
+    <MESSAGE value="project work flies before .gitignore" />
+    <MESSAGE value=".gitignore standard excluding workspace" />
+    <MESSAGE value="before .gitignore standard excluding workspace" />
+    <MESSAGE value="prototype of ble health modeling w/ pie &amp; stacked bar results visualization" />
+    <MESSAGE value="BLE, APP, TX health modeling" />
+    <MESSAGE value="ready for demo of BLE, APP, TX health modeling" />
+    <MESSAGE value="add US production copy DB open &amp; handlers for various other DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="add US production copy DB open &amp; handlers for various other DB" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="861" y="312" key="FileChooserDialogImpl" timestamp="1620595268096">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="861" y="312" key="FileChooserDialogImpl/1920.40.1920.1040/0.40.1920.1040@0.40.1920.1040" timestamp="1620595268096" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>1564421612073</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
